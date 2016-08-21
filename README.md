@@ -1,4 +1,4 @@
-# Angular2-Meetup setup
+# Angular2-Meetup
 Setup for Angular2
 
 Steps:
