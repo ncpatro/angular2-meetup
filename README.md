@@ -20,3 +20,6 @@ you can do the setup cloning angular quickstart repo as well
 https://github.com/angular/quickstart
 
 Angular quickstart repo is having libraries used for testing as well which I have removed for simplicity.
+
+after settingup node modules with npn install then run command npm start
+npm start will compile ts to js and will run a local node server
